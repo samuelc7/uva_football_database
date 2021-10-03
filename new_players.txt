@@ -1,0 +1,126 @@
+1	Jelani Woods	0	6-7	265
+2	Nick Grant	1	6-3	190
+3	De'Vante Cross	2	6-2	215
+4	Ra'Shaun Henry	2	6-3	190
+5	Anthony Johnson	3	6-1	195
+6	Dontayvion Wicks	3	6-1	205
+7	Elliott Brown	4	6-5	240
+8	Billy Kemp IV	4	5-9	175
+9	Brennan Armstrong	5	6-2	215
+10	Chayce Chalmers	5	6-2	210
+11	Nick Jackson	6	6-1	240
+12	Mike Hollins	7	5-9	210
+13	Noah Taylor	7	6-5	235
+14	Darrius Bratton	8	6-1	195
+15	Coen King	9	6-0	200
+16	Ben Smiley III	10	6-4	270
+17	Iraken Armstead	11	6-3	215
+18	Josh Hayes	11	5-11	190
+19	Jared Rayman	13	6-2	190
+20	Hunter Stewart	13	6-2	230
+21	Antonio Clary	14	6-0	200
+22	Perris Jones	15	5-8	180
+23	Jacob Finn	16	6-4	205
+24	Jay Woolfolk	16	5-11	200
+25	Demick Starling	17	6-0	190
+26	Hayden Mitchell	18	5-11	195
+27	Olasunkonmi Agunloye	19	6-6	280
+28	Jonas Sanker	20	6-0	185
+29	Wayne Taulapapa	21	5-9	210
+30	Elijah Gaines	22	6-2	200
+31	Fentrell Cypress II	23	5-11	180
+32	Joseph White	25	6-1	180
+33	Devin Darrington	26	5-9	215
+34	Jaylon Baker	27	6-2	175
+35	Langston Long	27	6-2	215
+36	Josh Ahern	28	6-3	235
+37	Joey Blount	29	6-2	195
+38	James Jackson	30	6-3	220
+39	Mike Green	31	6-4	225
+40	Ronnie Walker Jr.	32	5-11	210
+41	West Weeks	33	6-2	220
+42	Amaad Foston	34	6-0	210
+43	Donovan Johnson	34	6-2	200
+44	Joe Comer	36	5-10	180
+45	Darren Klein	37	6-0	200
+46	Sean Moore	38	6-1	170
+47	Dave Herard	39	6-0	195
+48	D'Sean Perry	41	6-3	225
+49	Kendall Cross	42	6-1	220
+50	Ethan Davies	43	5-11	175
+51	Sackett Wood Jr.	44	6-3	250
+52	Nusi Malani	45	6-6	275
+53	T.C. Harrison	47	6-2	240
+54	Tommy Christ	50	6-5	300
+55	Ty Furnish	51	6-4	240
+56	Joe Bissinger	52	6-4	320
+57	Brendan Farrell	53	5-11	205
+58	Ryan Nelson	54	6-6	315
+59	Olusegun Oluwatimi	55	6-3	310
+60	Michael Diatta	56	6-5	255
+61	Tucker Finkelston	57	5-11	230
+62	Danny Caracciolo	59	5-11	230
+63	Lee Dudley	62	6-0	205
+64	Jack Keenan	64	6-5	295
+65	Jonathan Leech	65	6-4	280
+66	Justin Duenkel	66	5-11	205
+67	Derek Devine	67	6-6	290
+68	Logan Taylor	68	6-7	320
+69	Chris Glaser	69	6-4	305
+70	Bobby Haskins	70	6-7	295
+71	Ryan Swoboda	72	6-10	325
+72	Andrew Williams	75	6-3	260
+73	Jordan Redmond	76	6-0	305
+74	Noah Josey	77	6-5	310
+75	Jestus Johnson III	78	6-3	320
+76	Colby McGhee	79	6-3	285
+77	Luke Wentz	80	6-3	210
+78	Lavel Davis Jr.	81	6-7	220
+79	Joshua Rawlings	82	6-5	260
+80	Josh Clifford	83	6-1	195
+81	Nathaniel Beal III	84	6-4	225
+82	Grant Misch	85	6-4	245
+83	Malachi Fields	86	6-4	220
+84	Mike Kosar	87	6-6	235
+85	Zack Kindel	88	5-11	195
+86	Artie Henry	89	6-1	185
+87	Jahmeer Carter	90	6-2	315
+88	Mandy Alonso	91	6-2	285
+89	Samson Reed	92	6-2	280
+90	Jonathan Horton	93	6-4	215
+91	Aaron Faumui	94	6-1	300
+92	Adeeb Atariwa	95	6-3	265
+93	Jesiah Davis	96	6-3	180
+94	Jacob Rodriguez	98	6-1	215
+95	Keytaon Thompson	99	6-4	210
+96	Kariem Al Soufi		6-3	325
+97	Ryan Attaway		6-0	205
+98	Chris Barfield		5-10	210
+99	Chico Bennett Jr.		6-4	240
+100	Sam Bond		6-3	250
+101	Sam Brady		6-3	225
+102	Javin Burke		6-0	195
+103	Luke Byrne		6-3	235
+104	Bryce Carter		6-3	280
+105	Jake Dewease		6-0	205
+106	Tenyeh Dixon		5-11	195
+107	Henry Duke		6-6	230
+108	Micah Gaffney		6-0	185
+109	Jack Hardy		6-3	235
+110	Joseph Holland		6-4	215
+111	Luke Johnson		6-5	320
+112	Joey Kagel		6-2	270
+113	Grant Lanham		6-4	310
+114	Hugh Laughlin		6-5	290
+115	Josh McCarron		6-4	200
+116	Nate Morris		6-2	205
+117	Ugo Obasi		6-0	200
+118	Charlie Patterson		6-7	280
+119	Hunter Pearson		6-2	215
+120	Aidan Ryan		6-0	200
+121	Brayden Sheffer		6-3	225
+122	William Simpkins III		6-1	185
+123	Dillon Tennyson		5-9	170
+124	Lorenz Terry		6-5	250
+125	Zachary Teter		6-5	310
+126	Jack Witmer		6-6	245

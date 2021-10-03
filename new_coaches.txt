@@ -1,0 +1,19 @@
+1	The Fralin Family Head Football Coach	Bronco Mendenhall
+2	Offensive Coordinator/Inside Receivers/Tight Ends	Robert Anae
+3	Defensive Coordinator/Secondary	Nick Howell
+4	Special Teams Coordinator/Cornerbacks	Ricky Brumfield
+5	Co-Defensive Coordinator/Linebackers	Kelly Poppinga
+6	Running Backs	Mark Atuaia
+7	Quarterbacks	Jason Beck
+8	Wide Receivers	Marques Hagans
+9	Safeties	Shane Hunter
+10	Defensive Line	Clint Sintim
+11	Offensive Line	Garett Tujague
+12	Graduate Assistant	Charles Mack
+13	Graduate Assistant	Chris Peace
+14	Graduate Assistant	Joe Spaziani
+15	Graduate Assistant	Donte Wilkins
+16	Director of Football Development & Performance	Shawn Griswold
+17	Director of Football Analytics	Matt Edwards
+18	Football Analyst - Defense	C.J. Stalker
+19	Football Analyst - Special Teams	Drew Meyer

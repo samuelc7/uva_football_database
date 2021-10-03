@@ -1,0 +1,103 @@
+1	Ellenwood	Ga.	United States
+2	Spotsylvania	Va.	United States
+3	Allentown	Pa.	United States
+4	Killeen	Texas	United States
+5	Coconut Creek	Fla.	United States
+6	Plaquemine	La.	United States
+7	Odenton	Md.	United States
+8	Highland Springs	Va.	United States
+9	Shelby	Ohio	United States
+10	Gainesville	Va.	United States
+11	Atlanta	Ga.	United States
+12	Baton Rouge	La.	United States
+13	Silver Spring	Md.	United States
+14	Roanoke	Va.	United States
+15	Culpeper	Va.	United States
+16	Chesapeake	Va.	United States
+17	South Bend	Ind.	United States
+18	Lakeland	Fla.	United States
+19	Alexandria	Va.	United States
+20	Jacksonville	Fla.	United States
+21	Chesterfield	Va.	United States
+22	Nashville	Tenn.	United States
+23	Richmond	Va.	United States
+24	Lindenhurst	N.Y.	United States
+25	Charlottesville	Va.	United States
+26	Laie	Hawaii	United States
+27	Queens	N.Y.	United States
+28	Rock Hill	S.C.	United States
+29	Virginia Beach	Va.	United States
+30	Forest Hill	Md.	United States
+31	Chattanooga	Tenn.	United States
+32	Woodbridge	Va.	United States
+33	Burke	Va.	United States
+34	Williamsburg	Va.	United States
+35	Hopewell	Va.	United States
+36	Watkinsville	Ga.	United States
+37	Milledgeville	Ga.	United States
+38	New Orleans	La.	United States
+39	Decatur	Ga.	United States
+40	Crozet	Va.	United States
+41	Cutler Bay	Fla.	United States
+42	Fort Lauderdale	Fla.	United States
+43	Miami	Fla.	United States
+44	Fairfax	Va.	United States
+45	Lynchburg	Va.	United States
+46	San Bruno	Calif.	United States
+47	Lawrenceville	Ga.	United States
+48	Sterling	Va.	United States
+49	Woodstock	Ga.	United States
+50	Houston	Texas	United States
+51	Dunwoody	Ga.	United States
+52	Buena Park	Calif.	United States
+53	Upper Marlboro	Md.	United States
+54	Antioch	Tenn.	United States
+55	Clarksville	Md.	United States
+56	Centreville	Va.	United States
+57	Arlington	Va.	United States
+58	Hoschton	Ga.	United States
+59	Great Falls	Va.	United States
+60	Pittsburgh	Pa.	United States
+61	Bridgewater	N.S.	United States
+62	Solon	Ohio	United States
+63	Fairfield	Conn.	United States
+64	Clermont	Fla.	United States
+65	Fredericksburg	Va.	United States
+66	Kissimmee	Fla.	United States
+67	Brentwood	Tenn.	United States
+68	Laurel	Md.	United States
+69	Orange	Va.	United States
+70	Troisdorf	Germany	Germany
+71	Dorchester	S.C.	United States
+72	Salem	Va.	United States
+73	Keswick	Va.	United States
+74	Stafford	Va.	United States
+75	Sarasota	Fla.	United States
+76	Severn	Md.	United States
+77	Honolulu	Hawaii	United States
+78	Huntersville	N.C.	United States
+79	Wichita Falls	Texas	United States
+80	Paderborn	Germany	Germany
+81	Milton	Ga.	United States
+82	Ashburn	Va.	United States
+83	Fredon	N.J.	United States
+84	Lincolnton	N.C.	United States
+85	Cleveland	Tenn.	United States
+86	McLean	Va.	United States
+87	South Chesterfield	Va.	United States
+88	Daleville	Va.	United States
+89	Washington	D.C.	United States
+90	Henrico	Va.	United States
+91	Spanish Fort	Ala.	United States
+92	Annandale	Va.	United States
+93	Cincinnati	Ohio	United States
+94	Athens	Ga.	United States
+95	Mukilteo	Wash.	United States
+96	Glen Allen	Va.	United States
+97	Baltimore	Md.	United States
+98	Roswell	Ga.	United States
+99	Seneca	S.C.	United States
+100	West Point	Va.	United States
+101	Gaithersburg	Md.	United States
+102	Sandston	Va.	United States
+103	Cypress	Texas	United States

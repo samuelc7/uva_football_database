@@ -1,0 +1,6 @@
+1	Graduate Student
+2	Senior
+3	Junior
+4	Sophomore
+5	Redshirt Freshman
+6	Freshman
