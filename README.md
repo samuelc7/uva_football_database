@@ -12,7 +12,7 @@ I also made more tables in the database for the future. There's the classes, coa
 To run the program, make sure to have the correct credentials to the database in the database_access.py file and then hit run. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=3I8GYw0fVls)
 
 # Relational Database
 
